@@ -1,0 +1,11 @@
+sale_date,customer,brand,model,price,payment_method
+2024-01-01,Ana Silva,Toyota,Corolla,90000.00,Credit
+2024-01-02,João Souza,Honda,Civic,95000.00,Debit
+2024-01-03,Maria Oliveira,Ford,Focus,85000.00,Credit
+2024-01-04,Carlos Mendes,Chevrolet,Onix,75000.00,Debit
+2024-01-05,Patrícia Lima,Nissan,Kicks,80000.00,Credit
+2024-01-06,Roberto Santos,Hyundai,HB20,70000.00,Debit
+2024-01-07,Luana Costa,Kia,Sportage,100000.00,Credit
+2024-01-08,Ricardo Almeida,Volkswagen,Gol,65000.00,Debit
+2024-01-09,Mariana Ferreira,Fiat,Argo,60000.00,Credit
+2024-01-10,Fernando Ramos,Mitsubishi,Outlander,120000.00,Debit

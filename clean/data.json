@@ -1,0 +1,45 @@
+{"sale_date":1704067200000,"customer":"Ana Silva","brand":"Toyota","model":"Corolla","price":90000.0,"payment_method":"Credit","Country":"Brazil"}
+{"sale_date":1704153600000,"customer":"Jo\u00e3o Souza","brand":"Honda","model":"Civic","price":95000.0,"payment_method":"Debit","Country":"Brazil"}
+{"sale_date":1704240000000,"customer":"Maria Oliveira","brand":"Ford","model":"Focus","price":85000.0,"payment_method":"Credit","Country":"Brazil"}
+{"sale_date":1704326400000,"customer":"Carlos Mendes","brand":"Chevrolet","model":"Onix","price":75000.0,"payment_method":"Debit","Country":"Brazil"}
+{"sale_date":1704412800000,"customer":"Patr\u00edcia Lima","brand":"Nissan","model":"Kicks","price":80000.0,"payment_method":"Credit","Country":"Brazil"}
+{"sale_date":1704499200000,"customer":"Roberto Santos","brand":"Hyundai","model":"HB20","price":70000.0,"payment_method":"Debit","Country":"Brazil"}
+{"sale_date":1704585600000,"customer":"Luana Costa","brand":"Kia","model":"Sportage","price":100000.0,"payment_method":"Credit","Country":"Brazil"}
+{"sale_date":1704672000000,"customer":"Ricardo Almeida","brand":"Volkswagen","model":"Gol","price":65000.0,"payment_method":"Debit","Country":"Brazil"}
+{"sale_date":1704758400000,"customer":"Mariana Ferreira","brand":"Fiat","model":"Argo","price":60000.0,"payment_method":"Credit","Country":"Brazil"}
+{"sale_date":1704844800000,"customer":"Fernando Ramos","brand":"Mitsubishi","model":"Outlander","price":120000.0,"payment_method":"Debit","Country":"Brazil"}
+{"sale_date":1704067200000,"customer":"John Smith","brand":"Toyota","model":"Corolla","price":30000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1704412800000,"customer":"Emily Johnson","brand":"Honda","model":"Civic","price":32000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1704931200000,"customer":"Michael Brown","brand":"Ford","model":"Focus","price":28000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1705708800000,"customer":"Jessica Davis","brand":"Chevrolet","model":"Onix","price":25000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1706918400000,"customer":"David Wilson","brand":"Nissan","model":"Kicks","price":27000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1707955200000,"customer":"Sarah Miller","brand":"Hyundai","model":"HB20","price":23000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1706745600000,"customer":"James Taylor","brand":"Kia","model":"Sportage","price":35000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1707523200000,"customer":"Ashley Anderson","brand":"Volkswagen","model":"Gol","price":22000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1707091200000,"customer":"Daniel Thomas","brand":"Fiat","model":"Argo","price":21000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1708387200000,"customer":"Laura Jackson","brand":"Mitsubishi","model":"Outlander","price":40000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1706832000000,"customer":"Matthew White","brand":"Toyota","model":"RAV4","price":45000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1707955200000,"customer":"Olivia Harris","brand":"Honda","model":"CR-V","price":43000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1706745600000,"customer":"Christopher Martin","brand":"Ford","model":"Escape","price":38000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1710115200000,"customer":"Emma Thompson","brand":"Chevrolet","model":"Tahoe","price":60000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1709424000000,"customer":"Joshua Garcia","brand":"Nissan","model":"Altima","price":25000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1711065600000,"customer":"Ava Martinez","brand":"Hyundai","model":"Santa Fe","price":32000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1709769600000,"customer":"James Rodriguez","brand":"Kia","model":"Stinger","price":50000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1710720000000,"customer":"Lily Lee","brand":"Volkswagen","model":"Jetta","price":23000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1709251200000,"customer":"Daniel Walker","brand":"Fiat","model":"500X","price":24000.0,"payment_method":"Credit","Country":"France"}
+{"sale_date":1710460800000,"customer":"Chloe Hall","brand":"Mitsubishi","model":"Outlander Sport","price":29000.0,"payment_method":"Debit","Country":"France"}
+{"sale_date":1704067200000,"customer":"John Smith","brand":"Toyota","model":"Corolla","price":30000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1704844800000,"customer":"Emily Johnson","brand":"Honda","model":"Civic","price":32000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1705276800000,"customer":"Michael Brown","brand":"Ford","model":"Focus","price":28000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1705708800000,"customer":"Jessica Davis","brand":"Chevrolet","model":"Onix","price":25000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1706140800000,"customer":"David Wilson","brand":"Nissan","model":"Kicks","price":27000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1706745600000,"customer":"Sarah Miller","brand":"Hyundai","model":"HB20","price":23000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1707091200000,"customer":"James Taylor","brand":"Kia","model":"Sportage","price":35000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1707955200000,"customer":"Ashley Anderson","brand":"Volkswagen","model":"Gol","price":22000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1708387200000,"customer":"Laura Jackson","brand":"Mitsubishi","model":"Outlander","price":40000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1709251200000,"customer":"Matthew White","brand":"Tesla","model":"Model 3","price":45000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1709596800000,"customer":"Olivia Harris","brand":"Tesla","model":"Model Y","price":60000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1710028800000,"customer":"Christopher Martin","brand":"Ford","model":"Escape","price":38000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1710460800000,"customer":"Emma Thompson","brand":"Chevrolet","model":"Tahoe","price":60000.0,"payment_method":"Debit","Country":"USA"}
+{"sale_date":1710892800000,"customer":"Joshua Garcia","brand":"Nissan","model":"Altima","price":25000.0,"payment_method":"Credit","Country":"USA"}
+{"sale_date":1711324800000,"customer":"Ava Martinez","brand":"Hyundai","model":"Santa Fe","price":32000.0,"payment_method":"Debit","Country":"USA"}

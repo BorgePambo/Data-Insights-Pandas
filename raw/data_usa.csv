@@ -1,0 +1,16 @@
+sale_date,customer,brand,model,price,payment_method
+2024-01-01,John Smith,Toyota,Corolla,30000.00,Credit
+2024-01-10,Emily Johnson,Honda,Civic,32000.00,Debit
+2024-01-15,Michael Brown,Ford,Focus,28000.00,Credit
+2024-01-20,Jessica Davis,Chevrolet,Onix,25000.00,Debit
+2024-01-25,David Wilson,Nissan,Kicks,27000.00,Credit
+2024-02-01,Sarah Miller,Hyundai,HB20,23000.00,Debit
+2024-02-05,James Taylor,Kia,Sportage,35000.00,Credit
+2024-02-15,Ashley Anderson,Volkswagen,Gol,22000.00,Debit
+2024-02-20,Laura Jackson,Mitsubishi,Outlander,40000.00,Credit
+2024-03-01,Matthew White,Tesla,Model 3,45000.00,Credit
+2024-03-05,Olivia Harris,Tesla,Model Y,60000.00,Debit
+2024-03-10,Christopher Martin,Ford,Escape,38000.00,Credit
+2024-03-15,Emma Thompson,Chevrolet,Tahoe,60000.00,Debit
+2024-03-20,Joshua Garcia,Nissan,Altima,25000.00,Credit
+2024-03-25,Ava Martinez,Hyundai,Santa Fe,32000.00,Debit
